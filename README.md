@@ -1,17 +1,26 @@
 ## Sixième projet du parcours de développeur web chez OpenClassrooms. ##
 
-L'objectif est le developpement du Backend du site Web "Piiquante", qui est un site d'avis gastronomique .
+L'objectif est la création d'une API sécurisée pour une application d'avis gastronomique dénommée "Piiquante" .
 
 Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préférées, et de "liker" ou de "disliker" les sauces que d'autres partagent.
 
+### Compétences évaluées : ###
+
+- Implémenter un modèle logique de données conformément à la règlementation.
+
+- Mettre en oeuvre des opérations CRUS de manière sécurisée.
+
+- Stocker des données de manière sécurisée.
 
 ### Technologie utilisée : ###
 
-- Le Frontend (développé à l'aide d'Angular) est fourni dans le projet (repo "ici")
+## Frontend : ##
 
-- Le back-end : ce projet utilise NodeJS et MongoDB a été choisi pour la base de données.
+Le Frontend (développé à l'aide d'Angular) est fourni dans le projet (repo "ici")
 
-Node.js : Nous utilisons ici node.js pour construire le backend et ainsi ajouter les modules nécéssaires .
+## Back-end : ##
+
+ce projet utilise NodeJS et MongoDB a été choisi pour la base de données. Nous utilisons node.js pour construire le backend et ainsi ajouter les modules nécéssaires .
 
 Les principaux modules de node.js utilisés dans ce projet :
 
