@@ -1,3 +1,6 @@
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/151660985-c0a30670-7d3b-4b86-89fe-566e96a15e79.jpg" />
+</p>
 ## Sixième projet du parcours de développeur web chez OpenClassrooms. ##
 
 L'objectif est la création d'une API sécurisée pour une application d'avis gastronomique dénommée "Piiquante" .
@@ -8,7 +11,6 @@ Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préfér
 <img src= "https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg" />
 </p>
 
-<br>
 
 ### Compétences évaluées : ###
 
@@ -57,7 +59,9 @@ Les variables d'environnement contenant l'identifiant, le mot de passe, le host 
 
 
 
-![piquante](https://user-images.githubusercontent.com/90606431/151660282-14e76e40-b6a3-4cfa-88b1-6fc19bac5695.jpg)
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg" />
+</p>
 
 <br>
 
