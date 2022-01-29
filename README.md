@@ -5,7 +5,7 @@ L'objectif est la création d'une API sécurisée pour une application d'avis ga
 Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préférées, et de "liker" ou de "disliker" les sauces que d'autres partagent.
 
 <p align="center">
-![piquante](https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg)
+<img src= "https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg" />
 </p>
 
 <br>
