@@ -4,8 +4,9 @@ L'objectif est la création d'une API sécurisée pour une application d'avis ga
 
 Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préférées, et de "liker" ou de "disliker" les sauces que d'autres partagent.
 
+<p align="center">
 ![piquante](https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg)
-
+</p>
 
 <br>
 
@@ -19,7 +20,8 @@ Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préfér
 
 ### Technologie utilisée : ###
 
-ce projet utilise NodeJS et MongoDB a été choisi pour la base de données. Nous utilisons node.js pour construire le backend et ainsi ajouter les modules nécéssaires .
+Ce projet utilise NodeJS et MongoDB a été choisi pour la base de données. 
+Nous utilisons node.js pour construire le backend et, ainsi ajouter les modules nécéssaires .
 
 
 ## Frontend : ##
@@ -53,9 +55,12 @@ modules de sécurité sur node.js
 
 Les variables d'environnement contenant l'identifiant, le mot de passe, le host et le nom de la base de données ainsi que la clé pour l'encodage sont contenues dans un fichier nommé ".env" à la racine du back-end. Ce fichier sera fourni avec les livrables mais pas sur ce repository.
 
+
+
 ![piquante](https://user-images.githubusercontent.com/90606431/151660282-14e76e40-b6a3-4cfa-88b1-6fc19bac5695.jpg)
 
 <br>
+
 Clone the frontend OpenClassrooms Github Projet P6.
 
 Here are the dependancies you need to install:
