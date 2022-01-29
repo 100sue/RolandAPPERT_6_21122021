@@ -19,13 +19,14 @@ Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préfér
 
 ### Technologie utilisée : ###
 
+ce projet utilise NodeJS et MongoDB a été choisi pour la base de données. Nous utilisons node.js pour construire le backend et ainsi ajouter les modules nécéssaires .
+
+
 ## Frontend : ##
 
 Le Frontend (développé à l'aide d'Angular) est fourni dans le projet (repo "ici")
 
 ## Back-end : ##
-
-ce projet utilise NodeJS et MongoDB a été choisi pour la base de données. Nous utilisons node.js pour construire le backend et ainsi ajouter les modules nécéssaires .
 
 Les principaux modules de node.js utilisés dans ce projet :
 
