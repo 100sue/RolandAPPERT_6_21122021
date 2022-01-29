@@ -1,6 +1,4 @@
-<p align="center">
-<img src= "https://user-images.githubusercontent.com/90606431/151660985-c0a30670-7d3b-4b86-89fe-566e96a15e79.jpg" />
-</p>
+
 ## Sixième projet du parcours de développeur web chez OpenClassrooms. ##
 
 L'objectif est la création d'une API sécurisée pour une application d'avis gastronomique dénommée "Piiquante" .
@@ -81,3 +79,6 @@ On Windows, these installations require to use PowerShell in administrator mode.
 
  Dependencies backend: express/nodemon/bcrypt/dotenv/helmet/jsonwebtoken/mongoose/password-validator/multer.
 
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/151660985-c0a30670-7d3b-4b86-89fe-566e96a15e79.jpg" />
+</p>
