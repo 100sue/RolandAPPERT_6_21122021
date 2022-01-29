@@ -4,11 +4,15 @@ L'objectif est la création d'une API sécurisée pour une application d'avis ga
 
 Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préférées, et de "liker" ou de "disliker" les sauces que d'autres partagent.
 
+![piquante](https://user-images.githubusercontent.com/90606431/151660272-38f292d3-1316-4684-858c-c8267d830ada.jpg)
+
+
+<br>
 ### Compétences évaluées : ###
 
 - Implémenter un modèle logique de données conformément à la règlementation.
 
-- Mettre en oeuvre des opérations CRUS de manière sécurisée.
+- Mettre en oeuvre des opérations CRUD de manière sécurisée.
 
 - Stocker des données de manière sécurisée.
 
@@ -39,7 +43,30 @@ modules de sécurité sur node.js
 
 - bcrypt : permet de faire un "hash" du mot de passe du client, de maniere a ce que cette chaine de caractère ne soit pas stockées coté serveur (mais seulement ce hash). Ainsi lorsque l'utilisateur se connecte avec son mot de passe, ce mot de passe est de nouveau haché et comparé au hash du serveur. Si les deux hash viennent du même mot de passe, les hash se reconnaitront.
 
-- Email-validator e
+- Email-validator :
 
-- password-validator
+- password-validator :
+
+## Back-end : Information (securité) ##
+
+Les variables d'environnement contenant l'identifiant, le mot de passe, le host et le nom de la base de données ainsi que la clé pour l'encodage sont contenues dans un fichier nommé ".env" à la racine du back-end. Ce fichier sera fourni avec les livrables mais pas sur ce repository.
+
+![piquante](https://user-images.githubusercontent.com/90606431/151660282-14e76e40-b6a3-4cfa-88b1-6fc19bac5695.jpg)
+
+<br>
+Clone the frontend OpenClassrooms Github Projet P6.
+
+Here are the dependancies you need to install:
+- NodeJS 12.14 or 14.0.
+- Angular CLI 7.0.2.
+- node-sass : make sure to use the corresponding version to NodeJS. For Noe 14.0 for instance, you need node-sass in version 4.14+.
+On Windows, these installations require to use PowerShell in administrator mode.
+
+- Then, clone this repo, run npm install, and run npm install --save-dev run-script-os.
+- Run npm start. This should both run the local server and launch your browser.
+- If your browser fails to launch, or shows a 404 error, navigate your browser to localhost:8080.
+- The app should reload automatically when you make a change to a file.
+- Use Ctrl+C in the terminal to stop the local server.
+
+ Dependencies backend: express/nodemon/bcrypt/dotenv/helmet/jsonwebtoken/mongoose/password-validator/multer.
 
